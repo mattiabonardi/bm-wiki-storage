@@ -2,7 +2,7 @@
 title: Metabolismi energetici nel lavoro muscolare
 description: Tipologie di metabolismi energetici durante il lavoro muscolare
 published: true
-date: 2022-08-18T12:52:30.333Z
+date: 2022-08-18T12:58:46.157Z
 tags: fitness, metabolismo, forza, aerobico, anaerobico
 editor: markdown
 dateCreated: 2022-08-18T12:47:02.681Z
