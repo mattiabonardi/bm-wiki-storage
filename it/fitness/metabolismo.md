@@ -2,7 +2,7 @@
 title: Metabolismi energetici nel lavoro muscolare
 description: Tipologie di metabolismi energetici durante il lavoro muscolare
 published: true
-date: 2022-08-18T12:58:46.157Z
+date: 2022-08-18T13:01:50.738Z
 tags: fitness, metabolismo, forza, aerobico, anaerobico
 editor: markdown
 dateCreated: 2022-08-18T12:47:02.681Z
@@ -22,7 +22,7 @@ La cellula necessita quindi di produrre molecole di ATP in modo tale da avere a 
 
 Il metabolismo anaerobico ALAttacido è un metodo di produzione energetica, tipico del tessuto muscolare, che non prevede l'utilizzo di ossigeno e non produce acido lattico; esso utilizza il substrato creatin fosfato (CP) ed è in grado di funzionare appieno solo per alcuni secondi. E' un sistema metabolico tipico degli sforzi di brevissima durata che non prevede lo scarto di molecole acide.
 
-ADP + CP = ATP + C
+`ADP + CP = ATP + C`
 
 L'ADP viene dunque "ricaricata" ad ATP per mezzo della Fosfocreatina (CP) la quale, perdendo un gruppo fosfato, si ridurrà in Creatina (C). Il metabolismo permette di produrre la massima quantità di ATP possibile ma solamente per circa 8-10 secondi. Per queste ragioni viene impiegato in attività che richiedono una massima potenza e una breve durata.
 
@@ -45,7 +45,7 @@ Il metabolismo anaerobico lattacido è un "meccanismo fisiologico" cellulare in 
 
 Con il metabolismo anaerobico lattacido, da una molecola di glucosio si ottengono 2 molecole di ATP + acido Lattico. Infine l'acido lattico viene smaltito tramite il ciclo di Cori.
 
-ADP + P + glucosio = ATP + lattato
+`ADP + P + glucosio = ATP + lattato`
 
 Lo scopo di questo meccanismo è quello di fornire energia sufficente per:
 - allenamenti di forza e di forza resistente (es. sollevamento di sovraccarichi per tempi superiori ai 10-15 secondi)
@@ -79,7 +79,7 @@ Il sistema aerobico è un sistema energetico che utilizza i grassi, i carboidrat
 
 La glicolisi aerobica prevede la stessa serie di reazioni della glicolisi anaerobica (veloce), ma differisce nel risultato in quanto è presente l'ossigeno sufficiente. Il Glicogeno inizialmente immagazzinato viene convertito in Glucosio, e successivamente scomposto da una serie di enzimi. Tramite l'impiego di due molecole di ATP viene infine creato il piruvato come prodotto finale della scomposizione del Glucosio. 
 
-C6H12O6 + 2 NAD+ + 2 ADP + 2 Pi → 2 NADH + 2 C3H4O3 + 2 ATP + 2 H2O + 2 H+.
+`C6H12O6 + 2 NAD+ + 2 ADP + 2 Pi → 2 NADH + 2 C3H4O3 + 2 ATP + 2 H2O + 2 H+`
 
 Successivamente quest'ultimo viene convertito in Acetil-Coenzima A (Acetil-CoA) grazie alla presenza di ossigeno (decarbossilazione ossidativa).
 
